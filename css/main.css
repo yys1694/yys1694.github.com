@@ -123,12 +123,24 @@ a:visited { color: #205caa; }
 }
 
 .github-icon-svg,
-.twitter-icon-svg {
+.facebook-icon-svg,
+.linkedin-icon-svg {
   display: inline-block;
-  width: 16px;
-  height: 16px;
+  width: 32px;
+  height: 32px;
   position: relative;
   top: 3px;
+  fill: #c2c2c2;
+}
+
+.github-icon-svg:hover {
+  fill: #3a3a3a;
+}
+.facebook-icon-svg:hover {
+  fill: #3a3a3a;
+}
+.linkedin-icon-svg:hover {
+  fill: #3a3a3a;
 }
 
 
