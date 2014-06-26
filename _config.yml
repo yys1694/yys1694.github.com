@@ -1,0 +1,12 @@
+# Site settings
+name: Yoonsang Yu
+title: Yoonsang Yu
+email: yooon1104@gmail.com
+description: "Enjoy music if you want!"
+baseurl: ""
+url: "http://yys1694.com"
+
+# Build settings
+markdown: kramdown
+permalinks: pretty
+exclude: [README.md]
