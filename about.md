@@ -15,7 +15,7 @@ permalink: /about/
 	<br />
 	<li> Candidate for Bachelor of Computer Science, Business Option</li>
 	<li> 2010 September - 2010 December; 2011 September - Present </li>
-	<li> Expeceted Time of Graduation: December 2014</li>
+	<li> Expeceted Time of Graduation: April 2015</li>
 </div>
 <br /> 
 

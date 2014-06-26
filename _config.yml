@@ -5,6 +5,10 @@ description: "Last Modified on May 15th 2014<br>Enjoy music if you want!"
 baseurl: ""
 url: "http://yys1694.com"
 
+exclude: [README.md]
+
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+paginate : 2
