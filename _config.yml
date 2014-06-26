@@ -11,3 +11,4 @@ exclude: [README.md]
 markdown: kramdown
 permalink: pretty
 
+paginate : 2
