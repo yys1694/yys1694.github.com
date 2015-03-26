@@ -10,6 +10,7 @@ permalink: /projects/
 	<li> A <a href='https://yys1694.github.io/movieInfo' target='_blank'>web project</a> that allows user to search about movies</li>
 	<li> API from <a href='https://www.themoviedb.org/documentation/api'>here</a></li>
 	<li> <a href="https://github.com/yys1694/movieInfo_Public" target='_blank'>Source codes</a> on GitHub </li>
+	<li>Responsive web application</li>
 
 	<h3> <img src="/assets/mario.png" height="30px" width="30px"> Mario Game </h3>
 	<li> Implementing a Mario game with X11 </li>
