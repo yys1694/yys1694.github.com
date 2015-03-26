@@ -22,13 +22,19 @@ permalink: /about/
 <div class="contents" align="center">
 <h2 style="letter-spacing:6px;">Programming Skills </h2>
 	<i> Languages:</i> C++, C, Java, Javascript, HTML, CSS, MIPS, Scheme, Scripts, SQL<br />
-	<i> Frameworks:</i> jQuery, Node.js Bootstrap <br />
+	<i> Frameworks:</i> jQuery, Node.js, Bootstrap <br />
 	<i> Tools    :</i> Vim, Git, SVN, UNIX, Eclipse, XCode, Windows, Mac OS X
 </div>
 <br /> 
 
 <div class="contents" align="center">
 <h2 style="letter-spacing:6px;"> Experience </h2>
+	<h3> Project LAMB </h3>
+		 (Working as Director of Public Relations) <br/> Jan 2015 ~ Current)
+	<li> Start-up company; Establishing and expanding musical culture within our region</li>
+	<li> Designing and Implementing Company's website</li>
+	<li> Managing SNS activities and data collected through research</li>
+
 	<h3> Iron Chef </h3>
 		 (Worked as Waiter Manager <br/> April 2012 ~ September 2012)
 	<li> Obtained ability to follow instructions and work under high pressure </li>

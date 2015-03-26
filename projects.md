@@ -6,6 +6,11 @@ permalink: /projects/
 
 <div class="contents" align="center">
 
+	<h3> <img src="/assets/popcorn.png" height="30px" width="30px"> Movie Info </h3>
+	<li> A <a href='https://yys1694.github.io/movieInfo'>web project</a> that allows user to search about movies</li>
+	<li> API from <a href='https://www.themoviedb.org/documentation/api'>here</a></li>
+	<li> <a href="https://github.com/yys1694/movieInfo_Public">Source codes</a> on GitHub </li>
+
 	<h3> <img src="/assets/mario.png" height="30px" width="30px"> Mario Game </h3>
 	<li> Implementing a Mario game with X11 </li>
 	<li> Graphical User Interface</li>
